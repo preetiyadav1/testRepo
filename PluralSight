@@ -1,0 +1,2 @@
+Use objectsto hold lists, since they work on key value basis and are quick to lookup, but for smaller lists, arrays can be used as well.
+Use fake data to work first and once the UI starts behaving the way we want it to, remove the fact data and implement the real data
